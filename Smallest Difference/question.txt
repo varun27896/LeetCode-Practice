@@ -1,0 +1,11 @@
+Write a function that takes in two non empty unsorted arrays and returns the pairs of numbers 
+whose absolute difference is closest to zero and returns and array containing these two numbers,
+with the number from the first array in the first position and the number from the second array in
+the second position.
+
+Input:
+arrayone = [-1,10,20,5,3,28]
+arraytwo = [26,135,134,17,15]
+
+Output:
+[28,26]
