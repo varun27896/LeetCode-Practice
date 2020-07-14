@@ -8,3 +8,7 @@ def insertionSort(array):
 
 def swap(i,j,array):
     array[i],array[j] = array[j],array[i]
+
+
+#time complexity : O(n^2)
+#space complexity : O(1)
